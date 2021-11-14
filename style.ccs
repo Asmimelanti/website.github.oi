@@ -1,0 +1,12 @@
+body {
+  background-image: url("");
+  background-size: 100%;
+}
+
+.home {
+  margin: auto;
+  text-align: center;
+  font-family: fantasy;
+  width: 100%;
+  font-size: 20xp;
+}
